@@ -1,0 +1,21 @@
+body {
+    background-color: #212328;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    width: 30%;
+    background-color: #3d414a;
+    border-collapse: collapse;
+    border-width: 2px;
+    border-color: #deefef;
+    border-style: solid;
+    color: #deefef;
+    
+}
+
+th {
+    font-weight: bold;
+}
